@@ -42,9 +42,9 @@ There are MANY different ways to make maps in R, all with different pros/cons. C
 
 
 ```{r}
-# install.packages("sf")
-# install.packages("stars")
-# install.packages("tmap")
+install.packages("sf")
+install.packages("stars")
+install.packages("tmap")
 ```
 
 ```{r}
